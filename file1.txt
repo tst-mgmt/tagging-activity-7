@@ -2,4 +2,4 @@ text added to file 1
 
 Some more text to demo fetch.
 
-Adding another line of text to show pickup of changes in github desktop.
+Editing this line of text to show pickup of conflicts in github desktop.
