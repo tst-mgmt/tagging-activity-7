@@ -1,1 +1,3 @@
 text added to file 1
+
+Some more text to demo fetch.
